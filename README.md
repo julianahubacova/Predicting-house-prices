@@ -122,12 +122,12 @@ Step-by-step guide to execute the project:
 #### Loss Curve
 The loss curve shows how the model's loss decreases over training epochs, indicating the model's learning progress.
 
-![Loss Curve](plots/loss_curve.png)
+![Loss Curve](loss_curve.png)
 
 #### Predicted vs. Actual House Prices
 The scatterplot compares predicted house prices to actual values. Points closer to the red diagonal line indicate better predictions.
 
-![Predicted vs. Actual House Prices](plots/predicted_vs_actual.png)
+![Predicted vs. Actual House Prices](predicted_vs_actual.png)
 
 ---
 
