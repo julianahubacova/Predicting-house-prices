@@ -38,7 +38,6 @@ The dataset used in this project is the **California Housing dataset**, availabl
 2. **Train-Test Split**: The dataset was divided into:
    - **Training Set (80%)**: Used to train the model.
    - **Testing Set (20%)**: Used to evaluate the model's performance on unseen data.  
-
 This preprocessing ensures the data is prepared for the neural network, improving training stability and performance.
 ---
 
